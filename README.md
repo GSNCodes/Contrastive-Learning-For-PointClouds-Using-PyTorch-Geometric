@@ -7,6 +7,8 @@ Contrastive Representation Learning for Point Clouds.
 
 ## Architecture Details
 
+The encoder is comprised of Dynamic EdgeConv layers and the projection head is a Multi-Layer Perceptron.
+
 ## Results
 
 This project uses the ShapeNet dataset and specifically the following classes - Airplane, Chair, Lamp and Table for training. 
