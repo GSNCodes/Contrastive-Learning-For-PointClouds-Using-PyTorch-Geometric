@@ -16,5 +16,11 @@ This project uses the ShapeNet dataset and specifically the following classes - 
 #### Embedding Space visualized using T-SNE
 ![](images/tsne_viz.png)
 
+### Point Cloud Visualization
+Query Idx: 4
+Match Idx: 8
+
+![](images/match_1.png) ![](images/match_2.png)
+
 ## References
 
